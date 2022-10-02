@@ -9,7 +9,7 @@
 @section('content')
     <div class ="card">
         <div class="card-header">
-            <h1 class="card-title">MUNDO HOLALA</h1>
+            <h1 class="card-title">MUNDO HOLLALA</h1>
         </div>
 
         <div class="card-body">
